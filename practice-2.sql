@@ -20,3 +20,6 @@
 -- | https://www.airbnb.com/rooms/25682427 | 16           |
 
 
+Select URL 
+from listings 
+where
